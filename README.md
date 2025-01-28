@@ -1,2 +1,2 @@
 # Ecom
-Products ecommerce website using the MERN Stack with features like Stripe for payment processing, JWT for secure authentication, Cloudinary for media management
+Products ecommerce website using the MERN Stack
